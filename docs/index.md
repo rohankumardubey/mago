@@ -112,7 +112,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://carthage.software/mago.sh | bash
 <a href="https://ofcompute.rs/" title="Vincent Berset" target="_blank" rel="noopener" class="sponsor-card sponsor-silver"><img src="https://avatars.githubusercontent.com/u/5173120?u=95efc76cd8fc804536dc6dd25781a95b650bf902&v=4&s=80" alt="Vincent Berset"><span>Vincent Berset</span></a>
 </div></div>
 <div class="sponsor-tier"><div class="sponsor-tier-grid"><a href="https://lets-book.com/" title="Let's Book" target="_blank" rel="noopener" class="sponsor-card sponsor-bronze"><img src="https://avatars.githubusercontent.com/u/60887869?v=4&s=64" alt="Let's Book"><span>Let's Book</span></a>
-<a href="https://heysora.net/" title="HeySora" target="_blank" rel="noopener" class="sponsor-card sponsor-bronze"><img src="https://avatars.githubusercontent.com/u/17962248?u=f648cc7bd2aca843662fc8166e206e0b047f075a&v=4&s=64" alt="HeySora"><span>HeySora</span></a>
+<a href="https://heysora.net" title="HeySora" target="_blank" rel="noopener" class="sponsor-card sponsor-bronze"><img src="https://avatars.githubusercontent.com/u/17962248?u=f648cc7bd2aca843662fc8166e206e0b047f075a&v=4&s=64" alt="HeySora"><span>HeySora</span></a>
 <a href="https://github.com/kambo-1st" title="Bohuslav Šimek" target="_blank" rel="noopener" class="sponsor-card sponsor-bronze"><img src="https://avatars.githubusercontent.com/u/6493048?u=5eddf1eb923810745d8bdd62496d245238833d07&v=4&s=64" alt="Bohuslav Šimek"><span>Bohuslav Šimek</span></a>
 <a href="https://www.ticketswap.com" title="TicketSwap" target="_blank" rel="noopener" class="sponsor-card sponsor-bronze"><img src="https://avatars.githubusercontent.com/u/5766233?v=4&s=64" alt="TicketSwap"><span>TicketSwap</span></a>
 </div></div>
